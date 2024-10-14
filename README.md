@@ -23,8 +23,12 @@ h - displays this help window
 
 ## Installation 
 
+The easiest way to install and use this application is via [tmp](https://github.com/tmux-plugins/tpm)
+
+Add the following to your `.tmux.conf` file
 
 
+`set -g @plugin 'themoderngeek/tmux_apple_music_plugin`
 
 ## Inspiration
 
