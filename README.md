@@ -8,6 +8,9 @@ It is primarily built to scratch my own itch but if others find it useful then t
 
 In order to use this application you need to be using a mac as it uses apple script under the hood. You also need to have apple music running and in a playing/paused state.
 
+## Usage
+
+tmux Keybind + m will open the music pop up, this will show the currently playing song, the artist, the album, the progress and the volume. Commands listed below can be entered to interact with apple music.
 
 ## Commands
 
