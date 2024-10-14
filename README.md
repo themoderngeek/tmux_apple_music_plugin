@@ -18,15 +18,20 @@ When the window is open it accepts the following commands
 
 
 q/escape - quit; exits the application and closes the tmux window
+
 p - play/pause; Toggles between playing and pausing the application
+
 n - next; plays the next track
+
 b - back; plays the previous track - note this is not supported on some generated playlists
+
 +/- - volume up/down; increase or decreases the volume
+
 h - displays this help window
 
 ## Installation 
 
-The easiest way to install and use this application is via [tmp](https://github.com/tmux-plugins/tpm)
+The easiest way to install and use this application is via [tpm](https://github.com/tmux-plugins/tpm)
 
 Add the following to your `.tmux.conf` file
 
